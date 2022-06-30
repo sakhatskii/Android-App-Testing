@@ -8,3 +8,6 @@
 ![Снимок экрана 2022-06-29 в 21 36 57](https://user-images.githubusercontent.com/104675622/176511162-dafb7f28-db01-4bea-a5f0-7e0950fc86e5.png)
 
 - Build APK и уставновка на устройство
+
+- Чеклист смоук, критикалпас проверки приложения ToDoList
+https://docs.google.com/spreadsheets/d/1-8LdDUqyTfwrMkhQqRLQFF6Z2vk2KZPfh75Pm8RWXf0/edit#gid=0
