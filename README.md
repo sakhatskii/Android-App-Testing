@@ -11,3 +11,4 @@
 
 - Чеклист смоук, критикалпас проверки приложения ToDoList
 https://docs.google.com/spreadsheets/d/1-8LdDUqyTfwrMkhQqRLQFF6Z2vk2KZPfh75Pm8RWXf0/edit#gid=0
+
