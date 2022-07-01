@@ -9,7 +9,7 @@
 
 - Build APK и уставновка на устройство
 
-- Чеклист смоук, критикалпас проверки приложения ToDoList:
+- Чеклист смоук, критикалпас проверки приложения ToDoList, баг-репорт:
 
 https://docs.google.com/spreadsheets/d/1-8LdDUqyTfwrMkhQqRLQFF6Z2vk2KZPfh75Pm8RWXf0/edit#gid=0
 
